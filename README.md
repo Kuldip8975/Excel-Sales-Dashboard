@@ -71,11 +71,4 @@ README.md              → Project documentation
 * Strong understanding of Pivot Tables and slicers
 * Data visualization best practices in Excel
 * Structuring analytics projects for portfolio presentation
-
 ---
-
-
-![Dashboard](https://github.com/user-attachments/assets/0e0440e5-dda1-4055-8f3f-1002c9c09429)
-
-
-Consider giving this repository a star — it helps showcase the project!
